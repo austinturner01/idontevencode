@@ -1,11 +1,16 @@
 * {
-  font-family: Georgia;
+  font-family: Roboto;
+  background-color: Ivory;
+  padding-left: 20px;
 }
 
+/* Cascading rgb and rgba for compatibility */
 h1{
   font-family: 'Oswald', sans-serif;
   text-transform: uppercase;
-  color: FireBrick;
+  padding-top: 50px;
+  color: rgb(2, 93, 104);
+  color: rgba(2, 93, 104, 0.9);
 }
 
 p {
